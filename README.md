@@ -1,5 +1,8 @@
 # Neural-LightRig
 
+[![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-yellow.svg)](LICENSE)
+[![Neural LightRig](https://img.shields.io/badge/Paper-Neural%20LightRig-green)](https://arxiv.org/abs/2412.09593)
+
 This repository contains the official code for the paper **Neural LightRig: Unlocking Accurate Object Normal and Material Estimation with Multi-Light Diffusion**.
 
 ![Teaser Video](assets/teaser-video.gif)
