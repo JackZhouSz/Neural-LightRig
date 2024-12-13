@@ -2,11 +2,11 @@
 
 This repository contains the official code for the paper **Neural LightRig: Unlocking Accurate Object Normal and Material Estimation with Multi-Light Diffusion**.
 
-![Teaser Video](assets/teaser-video.mp4)
+![Teaser Video](assets/teaser-video.gif)
 
 ## Overview
 
-![Method Overview](assets/method_overview.pdf)
+![Method Overview](assets/method_overview.jpg)
 
 ## Inference Code
 
