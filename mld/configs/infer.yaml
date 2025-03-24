@@ -1,0 +1,7 @@
+model:
+  target: mld.model.MVDiffusion
+  params:
+    tuning_strategy: full
+    enable_concats: true
+    sd_21_pretrain: "stabilityai/stable-diffusion-2-1"
+    train_cfg: null
