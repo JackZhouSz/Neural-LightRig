@@ -1,0 +1,6 @@
+omegaconf
+einops
+accelerate
+diffusers[torch]
+transformers
+pytorch-lightning
