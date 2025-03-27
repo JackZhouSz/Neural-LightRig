@@ -22,7 +22,7 @@ class TrainingOptions:
 
     run_group: str = field()
     run_case: str = field()
-    project_name: str = field(default='pbr-recon')
+    project_name: str = field(default='neural-lightrig-recon')
     load_from: Optional[str] = field(default=None)
     case_training_args: Dict[str, Any] = field(default_factory=dict)
     case_dataset_args: Dict[str, Any] = field(default_factory=dict)
@@ -122,7 +122,7 @@ class TrainingOptions:
     @cached_property
     def wandb_args(self) -> Dict[str, Any]:
         _default_args = dict(
-            entity='neural-lightrig-recon',
+            entity=None,
             project=self.project_name,
             name=self.run_case,
             group=self.run_group,
