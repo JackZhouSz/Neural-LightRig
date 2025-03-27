@@ -55,7 +55,7 @@ More inference arguments are available, including seed, classifer-free-guidance,
 
 Our rendering dataset `LightProp` is on [Hugging Face](https://huggingface.co/datasets/zxhezexin/NLR-LightProp-Objaverse-Renderings). Please follow instructions there on how to download and prepare the dataset.
 
-## Training Multi-Light Diffusion
+### Training Multi-Light Diffusion
 
 Update training [configs](mld/configs/train-phase-1.yaml). Run training with the following example command.
 
