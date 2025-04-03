@@ -4,6 +4,7 @@
 [![Code License](https://img.shields.io/badge/Code%20License-Apache_2.0-yellow.svg)](LICENSE)
 [![Project Page](https://img.shields.io/badge/Page-Neural%20LightRig-red.svg)](https://projects.zxhezexin.com/neural-lightrig)
 [![Model](https://img.shields.io/badge/Model-Hugging%20Face-blue.svg)](https://huggingface.co/zxhezexin/neural-lightrig-mld-and-recon)
+[![Data](https://img.shields.io/badge/Data-Hugging%20Face-blue.svg)](https://huggingface.co/datasets/zxhezexin/NLR-LightProp-Objaverse-Renderings)
 
 This repository contains the official code for the paper **Neural LightRig: Unlocking Accurate Object Normal and Material Estimation with Multi-Light Diffusion**.
 
